@@ -16,7 +16,7 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-.env_file
+# .env_file shared for submission purpose
 
 # Coverage reports
 htmlcov/
